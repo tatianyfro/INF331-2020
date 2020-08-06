@@ -22,7 +22,7 @@
   ![projeto2](orange/projeto2)
 <br>
 ## Projeto de Composição de Componentes para Recomendação
-  ![diagrama1](imagens/diagrama1)
+  ![diagrama1](imagens/diagrama1.PNG)
 <br>  
 ## Projeto de Composição de Componentes para Pedido
 ### Diagrama de Componentes
