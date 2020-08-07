@@ -18,10 +18,14 @@
   ![Grafico2](imagens/grafico2.png)
 <br>
 ## Projeto Orange / Regras de Associação para Foodmart
-Com o que se observa das associações feitas de forma automática no uso dos componentes </b></i>Frequent Itemsets</b></i> e </b></i>Association Rules</b></i> pode se construir a engenharia de recomendação de produtos para clientes, por exemplo filtrando os items que suporte e confiança mais altos.
+Com o que se observa das associações feitas de forma automática no uso dos componentes </b></i>Frequent Itemsets</b></i> e </b></i>Association Rules</b></i> pode se construir a engenharia de recomendação de produtos para clientes. No componente Association Rules, por exemplo, pode-se inserir um produto "x" já selecionado pelo cliente na sessão de "Antecedent" assim pode-se recomendar produtos que frequentemente são comprados juntos com aquele já escolhido com as taxas de Suporte e Confiança mais altas. No componente Frequent Itemsets a aplicação também é a mesma podendo levar o nome, ou parte do nome do produto selecionado e buscar os produtos associados.
 ### Imagem do Projeto
   ![Imagem Projeto2](imagens/projeto2.png)
-<br>
+<br>Aplicando "Association Rules":
+![Imagem do componente 1](imagens/component1.png)
+<br>Aplicando "Frequent Itemsets":
+![Imagem do componente 2](imagens/component2.png)
+
 ### Arquivo do Projeto
   [Baixe aqui o arquivo deste projeto.](orange/projeto1.ows)
 <br>
