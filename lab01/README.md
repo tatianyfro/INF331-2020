@@ -9,7 +9,7 @@
   ![Imagem Projeto1](imagens/projeto1.png)
 <br>	
 ### Arquivo do Projeto
-   [Baixe aqui o arquivo do projeto.](orange/google-playstore-preparation.ows)
+   [Baixe aqui o arquivo deste projeto.](orange/google-playstore-preparation.ows)
 <br>
 ### Gráfico(s) de Análise
   ![Grafico1](imagens/grafico1.PNG)
@@ -18,11 +18,12 @@
   ![Grafico2](imagens/grafico2.png)
 <br>
 ## Projeto Orange / Regras de Associação para Foodmart
+Com o que se observa das associações feitas de forma automática no uso dos componentes </b></i>Frequent Itemsets</b></i> e </b></i>Association Rules</b></i> pode se construir a engenharia de recomendação de produtos para clientes, por exemplo filtrando os items que suporte e confiança mais altos.
 ### Imagem do Projeto
-  ![imagem3](imagens/imagem3.PNG)
+  ![Imagem Projeto2](imagens/projeto2.png)
 <br>
 ### Arquivo do Projeto
-  ![projeto2](orange/projeto2.PNG)
+  [Baixe aqui o arquivo deste projeto.](orange/projeto1.ows)
 <br>
 ## Projeto de Composição de Componentes para Recomendação
   ![diagrama1](imagens/diagrama1.PNG)
