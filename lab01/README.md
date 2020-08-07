@@ -6,13 +6,16 @@
 
 ## Projeto Orange / Análise de Dados do Google PlayStore
 ### Imagem do Projeto
-  ![imagem1](imagens/imagem1.PNG)
+  ![Imagem Projeto1](imagens/projeto1.PNG)
 <br>	
 ### Arquivo do Projeto
-   ![projeto1](orange/projeto1.ows)
+   [Baixe aqui o arquivo do projeto.](orange/google-playstore-preparation.ows)
 <br>
 ### Gráfico(s) de Análise
-  ![grafico1](imagens/grafico1.PNG)
+  ![Grafico1](imagens/grafico1.PNG)
+<br>
+<br>
+  ![Grafico2](imagens/grafico2.png)
 <br>
 ## Projeto Orange / Regras de Associação para Foodmart
 ### Imagem do Projeto
