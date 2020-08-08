@@ -1,8 +1,8 @@
 ##Lab02 - Data Flow & Mensagens
-</br>
+<br>
 ###Tarefa sobre catálogo de componentes
   [Baixe aqui o notebook com a resolução das seis tarefas.] (notebook/arquivo)
-</br>
+<br>
 ###Tarefa Web Components 1
 Meu código aqui.
 </br>
