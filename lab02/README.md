@@ -1,17 +1,17 @@
-# markdown com problemas
+## Lab02 - Data Flow & Mensagens
+* Tatiany F. R. Oliveira </br></b>
 
-## Lab02 - Data Flow & Mensagens</h2>  
-</br><b>Tatiany F. R. Oliveira </br></b>
-
-<h3> Tarefa sobre catálogo de componentes </h2>
-[Baixe aqui o notebook com a resolução das seis tarefas.](notebook/components-01-catalog.ipynb)
+### Tarefa sobre catálogo de componentes 
+[Baixe aqui o notebook com a resolução das seis tarefas](notebook/components-01-catalog.ipynb)
 <a href="notebook/components-01-catalog(1).ipynb"> Baixe aqui o notebook com a resolução das seis tarefas. </a>
-</br>
-<h3> Tarefa Web Components 1 </h3> 
+
+
+### Tarefa Web Components 1 
 ~~~html
+
 ~~~
 </br>
-<h3> Tarefa Web Components 2 </h3> 
+### Tarefa Web Components 2  
 ~~~html
 <dcc-trigger label="Noticias" 
               action="next/rss"></dcc-trigger>
