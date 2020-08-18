@@ -9,7 +9,7 @@ Segue o diagrama de atividades com o fluxo de execução que vai desde o pedido 
    ![Diagrama de Orquestração](images/diagrama1.png)
 <br>
 ## Tarefa 2 - Diagrama de Coreografia
-![Diagrama de Coreografia](images/diagrama1.png) </br>
+![Diagrama de Coreografia](images/diagrama2.png) </br>
 Segue a sequência esperada de ações:
 1) Através da interface iVenda o componente Catalogo captura do componente BuscaProduto a propriedade ProdutoBuscado que é uma string com as palavras chaves buscadas pelo cliente
 2) Através da interface iBuscaProduto o componente Catalogo assina os seu tópicos de interesse que servirão para receber os lances dos parceiros
