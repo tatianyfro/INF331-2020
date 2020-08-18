@@ -1,40 +1,35 @@
-## Lab01 - Data Flow
 
-### ALUNO
-   >Tatiany Fermino Rodrigues de Oliveira
-<br><br>
+## Lab03 - Model-View-Controller
+### Orquestração e Coreografia<br>
+#### ALUNO
+Tatiany Fermino Rodrigues de Oliveira<br><br>
+## Tarefa 1 - Diagrama de Orquestração
 
-## Projeto Orange / Análise de Dados do Google PlayStore
-### Imagem do Projeto
-  ![Imagem Projeto1](imagens/projeto1.png)
-<br>	
-### Arquivo do Projeto
-   [Baixe aqui o arquivo deste projeto.](orange/google-playstore-preparation.ows)
+Segue o diagrama de atividades com o fluxo de execução que vai desde o pedido de um produto até a sua entrega para o cliente.
+   ![Diagrama de Orquestração](images/diagrama1.png)
 <br>
-### Gráfico(s) de Análise
-  ![Grafico1](imagens/grafico1.PNG)
+## Tarefa 2 - Diagrama de Coreografia
+   ![Diagrama de Orquestração](images/diagrama1.png) </br>
+    Segue a sequência esperada de ações:
+Exemplo:
+        o componente X posta uma mensagem com o tópico Y;
+        os componentes do tipo A que assinam o tópico X fazem Z e postam uma mensagem com o tópico W.
 <br>
-<br>
-  ![Grafico2](imagens/grafico2.png)
-<br>
-## Projeto Orange / Regras de Associação para Foodmart
-Com o que se observa das associações feitas de forma automática no uso dos componentes </b></i>Frequent Itemsets</b></i> e </b></i>Association Rules</b></i> pode se construir a engenharia de recomendação de produtos para clientes. No componente Association Rules, por exemplo, pode-se inserir um produto "x" já selecionado pelo cliente na sessão de "Antecedent" assim pode-se recomendar produtos que frequentemente são comprados juntos com aquele já escolhido com as taxas de Suporte e Confiança mais altas. No componente Frequent Itemsets a aplicação também é a mesma podendo levar o nome, ou parte do nome do produto selecionado e buscar os produtos associados.
-### Imagem do Projeto
-  ![Imagem Projeto2](imagens/projeto2.png)
-<br>Aplicando "Association Rules":
-![Imagem do componente 1](imagens/component1.png)
-<br>Aplicando "Frequent Itemsets":
-![Imagem do componente 2](imagens/component2.png)
-
-### Arquivo do Projeto
-  [Baixe aqui o arquivo deste projeto.](orange/projeto1.ows)
-<br>
-## Projeto de Composição de Componentes para Recomendação
-  ![diagrama1](imagens/diagrama1.PNG)
-<br>  
-## Projeto de Composição de Componentes para Pedido
-### Diagrama de Componentes
-  ![diagrama2](imagens/diagrama2.PNG)
-<br>
-### Diagrama de Interfaces
-  ![diagrama3](imagens/diagrama3.PNG)
+## Tarefa 3
+Seguem as telas do meu aplicativo "Mercadinho":
+   * Tela 1 - nenhum produto selecionado
+   <br><img alt="Tela 1 - nenhum produto selecionado" src="images/tela1.jpeg" width="15%" height="15%" /><br>
+   * Tela 2 - primeiro produto selecionado
+   <br><img alt="Tela 2 - primeiro produto selecionado" src="images/tela2.jpeg" width="15%" height="15%" /><br>
+   * Tela 3 - segundo produto selecionado
+   <br><img alt="Tela 3 - segundo produto selecionado" src="images/tela3.jpeg" width="15%" height="15%" /><br>
+   * Tela 4 - compra de um dos produtos efetiva
+	<br><img alt="Tela 4 - compra de um dos produtos efetiva" src="images/tela4.jpeg" width="15%" height="15%" /><br>
+   * Tela 5 - diagrama de blocos do aplicativo
+	<br><img alt="Tela 5 - diagrama de blocos do aplicativo" src="images/blocks.png" width="50%" height="50%" /><br>
+   * Tela 6 (extra) - Select de produtos
+	<br><img alt="Tela 6 - Select de produtos" src="images/extra1.jpeg" width="15%" height="15%" /><br>
+	* Tela 7  (extra) - 2 produtos no carrinho
+	<br><img alt="Tela 7 - 2 produtos no carrinho" src="images/extra2.jpeg" width="15%" height="15%" /><br>
+## Tarefa 4
+Imagens da Equipe 6 postadas no endereço [https://github.com/inf331equipe6.](https://github.com/inf331equipe6)
