@@ -26,11 +26,12 @@ Segue o diagrama de atividades com o fluxo de execução que vai desde o pedido 
 Seguem as telas do meu aplicativo "Mercadinho":
 <br><table border="0"><tr><td>Tela 1 <br>Nenhum produto selecionado<br><img alt="Tela 1 - nenhum produto selecionado" src="images/tela1_v2.jpeg" width="60%" height="60%" /></td><td>Tela 2<br>Primeiro produto selecionado <br><img alt="Tela 2 - primeiro produto selecionado" src="images/tela2_v2.jpeg" width="60%" height="60%" /></td><td>Tela 3 <br>Segundo produto selecionado <br><img alt="Tela 3 - segundo produto selecionado" src="images/tela3_v2.jpeg" width="60%" height="60%" /></td></tr><tr><td>Tela 4 <br>Compra de um dos produtos efetiva<br><img alt="Tela 4 <br>Compra de um dos produtos efetiva" src="images/tela4_v2.jpeg" width="60%" height="60%" /></td><td> Tela 5 (extra) <br>Select de produtos <br><img alt="Tela 5 - Select de produtos" src="images/extra1_v2.jpeg" width="60%" height="60%" /></td><td> Tela 6  (extra) <br>2 produtos no carrinho <br><img alt="Tela 6 - 2 produtos no carrinho" src="images/extra2_v2.jpeg" width="60%" height="60%"  /></td></tr></table>
 <br>
+
 <details><summary>Mercadinho  - Versão 1</summary>
 <table border="0"><tr><td>Tela 1 <br>Nenhum produto selecionado<br><img alt="Tela 1 - nenhum produto selecionado" src="images/tela1.jpeg" width="60%" height="60%" /></td><td>Tela 2<br>Primeiro produto selecionado <br><img alt="Tela 2 - primeiro produto selecionado" src="images/tela2.jpeg" width="60%" height="60%" /></td><td>Tela 3 <br>Segundo produto selecionado <br><img alt="Tela 3 - segundo produto selecionado" src="images/tela3.jpeg" width="60%" height="60%" /></td></tr><tr><td>Tela 4 <br>Compra de um dos produtos efetiva<br><img alt="Tela 4 <br>Compra de um dos produtos efetiva" src="images/tela4.jpeg" width="60%" height="60%" /></td><td> Tela 5 (extra) <br>Select de produtos <br><img alt="Tela 5 - Select de produtos" src="images/extra1.jpeg" width="60%" height="60%" /></td><td> Tela 6  (extra) <br>2 produtos no carrinho <br><img alt="Tela 6 - 2 produtos no carrinho" src="images/extra2.jpeg" width="60%" height="60%"  /></td></tr></table>
 </br><b> Diagrama de blocos do aplicativo</b>
 	<br><br><img alt="Diagrama de blocos do aplicativo" src="images/blocks.png" width="50%" height="50%" /><br>	
-</datails>
+</details>
 	
 <b> Diagrama de blocos do aplicativo</b>
 	<br><br><img alt="Diagrama de blocos do aplicativo" src="images/blocks_v2.png" width="50%" height="50%" /><br>
